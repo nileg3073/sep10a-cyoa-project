@@ -5,10 +5,10 @@ Oh no! The rumors are spreading even more! Several paparazzi are waiting outside
 
 What car are you taking to the Grammys!
 
-[Option 1: Cadillac]
+[Option 1: Cadillac](cadillac.md)
 ![Option 1 text](screenshots/cadillac.png)
 
-[Option 2: Lamborghini]
+[Option 2: Lamborghini](lamborghini.md)
 ![Option 2 text](screenshots/lamborghini.png)
 
 
