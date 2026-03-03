@@ -1,9 +1,11 @@
 ## Nile's Pathway of a Celebrity:
 
-## You wake up in your luxury penthouse. Your phone is blowing up!
+## Your maid is unavailable, who are you gonna call now to make your breakfast?
 
-### What do you do?
-* [Call your maid!](unavailable-maid.md)
+### What are you gonna do?
+* [Make it myself..](breakfast-choice.md)
+* [Call your mother!](mother-not-answering.md)
+* [Call your maid, again.](failure1.md)
 * OR...
 
-* [Go Back....](fakefailure1.md)
+* [Go Back..](fakefailure2.md)
