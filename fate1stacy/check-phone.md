@@ -2,10 +2,8 @@ You see that your manager texted you: "There's a trending rumor about YOU!" You 
 
 ![Manager Text](screenshots/Managersrules.png)
 
-[Option 1: I want to address the recent rumors directly. I take full responsibility.](defensive-statements.md)
-![Option 1 text](screenshots/addressrumorgood.png)
+[Option 1: I want to address the recent rumors directly. I take full responsibility.](apology-statement.md)
 
-[Option 2: These rumors are so fake. I refuse to apologize. Please believe what you want, I don't care!](apology-statement.md)
+[Option 2: These rumors are so fake. I refuse to apologize. Please believe what you want, I don't care!](defensive-statements.md)
 
-![Option 2 text](screenshots/denyingrumors.png)
 
